@@ -1,0 +1,18 @@
+h1{
+font-family: 'Shadows Into Light', cursive;
+color:#686de0; font-size:50px;
+}
+
+
+body {
+
+    background-image: url("katherineBORK.png");
+}
+a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: initial;
+}
